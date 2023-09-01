@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KisungC
-- 👀 I’m interested in learning things
-- 🌱 I’m currently learning coding, ux design. Trying to expose myself into tech world.
+- 👋 Hi, I’m Kisung.
+- 👀 I’m interested in learning things, currently learning c++, oracle, web design and AI intergrated projects.
 - 💞️ I’m looking to collaborate on future app that I want to make
-- 📫 How to reach me future ki#3648 disc <--
+- 📫 How to reach me: chung.kisung0@gmail.com <--
 
 <!---
 KisungC/KisungC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
